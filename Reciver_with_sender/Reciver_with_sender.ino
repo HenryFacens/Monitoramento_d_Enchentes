@@ -11,10 +11,10 @@ String packet;
 String distancia;
 String nivel;
 
-const char* ssid        = "AP-SMART";
-const char* password    = "smart@2022";
-const char* mqttServer  = "34.234.193.23";
-const int mqttPort      = 1883;
+const char* ssid        = "xxxxxxxx";
+const char* password    = "xxxxxxx";
+const char* mqttServer  = "xxxxxx";
+const int mqttPort      = xxxxx;
 
 const char* topic1      = "smart/distancia";
 const char* topic2      = "smart/nivel";
