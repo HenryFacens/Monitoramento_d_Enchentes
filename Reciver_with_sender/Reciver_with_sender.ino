@@ -16,9 +16,6 @@ const char* password    = "xxxxxxx";
 const char* mqttServer  = "xxxxxx";
 const int mqttPort      = xxxxx;
 
-const char* topic1      = "smart/distancia";
-const char* topic2      = "smart/nivel";
-
 WiFiClient                espClient;
 PubSubClient              client(espClient);
 
