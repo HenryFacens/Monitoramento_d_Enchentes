@@ -24,20 +24,6 @@ O sistema permite que os usuários monitorem em tempo real o nível do Lago da F
 
 Este projeto é uma solução simples e eficaz para o monitoramento do nível do Lago da FACENS e pode ser facilmente replicado em outras situações semelhantes.
 
-## Configuração
-
-Para executar o projeto, siga os seguintes passos:
-
-1. Configure o sensor de nível de água e o módulo LoRaWAN de acordo com as especificações do fabricante.
-
-2. Conecte o ESP-32 Healtec V2, o sensor de nível de água e o módulo LoRaWAN.
-
-3. Utilize as credenciais fornecidas no arquivo "Credenciais.md" para configurar o envio de dados para a nuvem da AWS.
-
-4. Carregue o código fornecido neste repositório no ESP-32 Healtec V2.
-
-5. Verifique se os dados estão sendo coletados e enviados corretamente para a nuvem da AWS.
-
 ## Conclusão
 
 Este projeto demonstra a utilização de tecnologias de IoT para monitoramento remoto de nível de água. Com a coleta de dados em tempo real e o armazenamento na nuvem, é possível identificar rapidamente problemas relacionados ao nível de água e tomar ações preventivas, evitando danos ao meio ambiente e prejuízos financeiros.
